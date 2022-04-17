@@ -4,7 +4,7 @@ import time
 reddit = praw.Reddit(
     client_id="CLIENT_ID",
     client_secret="SECRET_KEY",
-    user_agent="<USER_AGENT",
+    user_agent="USER_AGENT",
     username="USERNAME",
     password="PASSWORD"
 )
